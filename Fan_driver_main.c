@@ -1,9 +1,9 @@
 /*
  ============================================================================
  Name        : Mini_Project1.c
- Author      : Mohamed Tarek
+ Author      : Omar yousef
  Description : Vehicle Control System Project
- Date        : 01/09/2021
+ Date        : 1/4/2022
  ============================================================================
  */
 
